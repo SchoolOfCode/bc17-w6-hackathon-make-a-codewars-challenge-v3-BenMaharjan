@@ -14,7 +14,7 @@
 //example feedCat(sad,2) should return true
 //example feedCat(playful,2) should return false
 
-//Bonus Task. If the cat is not asleep, playful or sad it is not in a valid state! return the following string "Cat can only be asleep, playful or sad"
+//Bonus Task. If the cat is not asleep, playful or sad it is not in a valid state! return the following string "Cat can only be asleep, playful or sad" if the first parameter is not asleep, playful or sad
 
 
 export function feedCat(catState, numberOfTimesCatHasEaten) {
