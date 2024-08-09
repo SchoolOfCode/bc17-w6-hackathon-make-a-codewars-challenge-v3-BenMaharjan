@@ -29,4 +29,3 @@ test('return Cat can only be asleep, playful or sad if catState is not correct',
     expect(feedCat("not asleep",1)).toBe("Cat can only be asleep, playful or sad");
 })
 
-
